@@ -1,0 +1,19 @@
+.card-height img{
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+    padding-left: 80px;
+}
+.third img{
+    height:350px;
+    width: 50;
+    padding-left: 80px
+
+}
+.last img{
+    height:100px;
+    width:100;
+    padding-left: 30px;
+    
+}
+
